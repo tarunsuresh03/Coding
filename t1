@@ -3,3 +3,7 @@ creating conflicts to remove the file
 for merge checking the Codes
 checking for commands
 for merge checking the Codes
+<<<<<<< HEAD
+=======
+Checking the new files
+>>>>>>> e89290e0f8d9fa3f4743c8713d6d203462187fdc
